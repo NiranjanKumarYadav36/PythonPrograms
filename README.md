@@ -3,8 +3,8 @@
 | Category                             | Topics                                              |
 |--------------------------------------|-----------------------------------------------------|
 | **Basic Concepts**                   | -[Basic Math Calculations](https://github.com/NiranjanKumarYadav36/PythonPrograms/blob/main/Quadratic_and_Complex.py) |
-| **Data Structures**                  | [Lists](#lists)                                     |
-|                                       | [Dictionaries](#dictionaries)                       |
+| **Data Structures**                  | -[Lists](https://github.com/NiranjanKumarYadav36/PythonPrograms/blob/main/ListMEthods.py)                                     |
+|                                       | -[Dictionaries](https://github.com/NiranjanKumarYadav36/PythonPrograms/blob/main/Dictionary.py)                       |
 | **Object-Oriented Programming**      | [Salary Calculation](#salary-calculation)           |
 |                                       | [Student Marks](#student-marks)                     |
 |                                       | [Special Methods](#special-methods)                 |
