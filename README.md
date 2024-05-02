@@ -26,17 +26,5 @@
 | **File Handling**                                 | Reading and Writing Files                         |
 |                                                    | File Modes (r, w, a, etc.)                       |
 |                                                    | File Navigation (seek, tell)                      |
-| **Exception Handling**                            | Try-Except Blocks                                |
-|                                                    | Handling Specific Exceptions                     |
-|                                                    | Custom Exceptions                                |
-| **Advanced Topics**                               | Lambda Functions                                  |
-|                                                    | Decorators                                        |
-|                                                    | Generators                                        |
-|                                                    | Context Managers (with statement)                |
-| **Modules and Packages**                          | Importing Modules                                 |
-|                                                    | Creating and Using Packages                       |
-|                                                    | Installing External Packages                      |
-| **GUI Programming**                               | GUI Programming with Tkinter                      |
-|                                                    | Event Handling                                    |
-|                                                    | Widgets (Buttons, Labels, Entry, etc.)           |
-# PythonPrograms
+
+
