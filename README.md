@@ -1,24 +1,58 @@
-| Category                                           | Topics                                            |
-|----------------------------------------------------|---------------------------------------------------|
-| **Basic Concepts**                                | [Hello World Program](#hello-world-program)      |
-|                                                    | [Variable Declaration](#variable-declaration)    |
-|                                                    | [Basic Arithmetic Operations](#basic-arithmetic-operations) |
-|                                                    | [Control Structures (if, else, elif, loops)](#control-structures-if-else-elif-loops) |
-| **Data Structures**                               | [Lists](#lists)                                   |
-|                                                    | [Tuples](#tuples)                                 |
-|                                                    | [Sets](#sets)                                     |
-|                                                    | [Dictionaries](#dictionaries)                     |
-| **Functions**                                     | [Function Declaration and Calling](#function-declaration-and-calling) |
-|                                                    | [Parameters and Return Values](#parameters-and-return-values) |
-|                                                    | [Recursion](#recursion)                           |
-| **Object-Oriented Programming**                   | [Classes](#classes)                               |
-|                                                    | [Inheritance](#inheritance)                       |
-|                                                    | [Polymorphism](#polymorphism)                     |
-|                                                    | [Encapsulation](#encapsulation)                   |
-| **String Manipulation**                           | [String Concatenation](#string-concatenation)     |
-|                                                    | [String Slicing and Indexing](#string-slicing-and-indexing) |
-|                                                    | [String Methods (e.g., split, join, find)](#string-methods-eg-split-join-find) |
-|                                                    | [Regular Expressions](#regular-expressions)       |
-| **File Handling**                                 | [Reading and Writing Files](#reading-and-writing-files) |
-|                                                    | [File Modes (r, w, a, etc.)](#file-modes-r-w-a-etc) |
-|                                                    | [File Navigation (seek, tell)](#file-navigation-seek-tell) |
+# Python Programs
+
+| Category                             | Topics                                              |
+|--------------------------------------|-----------------------------------------------------|
+| **Basic Concepts**                   | [Basic Math Calculations](#basic-math-calculations) |
+| **Data Structures**                  | [Lists](#lists)                                     |
+|                                       | [Dictionaries](#dictionaries)                       |
+| **Object-Oriented Programming**      | [Salary Calculation](#salary-calculation)           |
+|                                       | [Student Marks](#student-marks)                     |
+|                                       | [Special Methods](#special-methods)                 |
+| **String Manipulation**              | [String Methods](#string-methods)                   |
+|                                       | [Reversing Sentence](#reversing-sentence)           |
+|                                       | [Text Number Extraction](#text-number-extraction)    |
+|                                       | [Zip File](#zip-file)                               |
+| **File Handling**                    | [UnZip Files](#unzip-files)                         |
+|                                       | [Hashing](#hashing)                                 |
+| **Database**                         | [SQLite3](#sqlite3)                                 |
+
+## Detailed Topics
+
+### Basic Math Calculations
+Description: Introduction to basic mathematical operations in Python.
+
+### Lists
+Description: Explanation and examples of Python lists.
+
+### Dictionaries
+Description: Explanation and examples of Python dictionaries.
+
+### Salary Calculation
+Description: Program to calculate salary using object-oriented programming concepts.
+
+### Student Marks
+Description: Program to manage student marks using inheritance.
+
+### Special Methods
+Description: Explanation of special methods in Python classes.
+
+### String Methods
+Description: Explanation and examples of string methods in Python.
+
+### Reversing Sentence
+Description: Program to reverse a sentence using string manipulation.
+
+### Text Number Extraction
+Description: Program to extract numbers from a text using regular expressions.
+
+### Zip File
+Description: Program to create and extract zip files.
+
+### UnZip Files
+Description: Program to unzip files using file handling in Python.
+
+### Hashing
+Description: Program to perform hashing using file handling.
+
+### SQLite3
+Description: Introduction to SQLite3 database in Python.
